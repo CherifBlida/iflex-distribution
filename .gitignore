@@ -1,0 +1,2 @@
+# Ignore zip packages exceeding GitHub's 100MB direct file limit (distributed via GitHub Releases)
+*.zip
